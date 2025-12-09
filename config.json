@@ -361,6 +361,46 @@
             "api": "https://www.pgxdy.com/api/json.php",
             "detail": "https://www.pgxdy.com"
         },
+        "api_73": {
+            "name": "TV-四九资源4K",
+            "api": "https://49zyw.com/api.php/provide/vod/",
+            "detail": "https://49zyw.com"
+        },
+        "api_74": {
+            "name": "TV-小胡4K",
+            "api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/",
+            "detail": "http://xhztv.top"
+        },
+        "api_75": {
+            "name": "TV-快车资源4K",
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+            "detail": "https://caiji.kczyapi.com"
+        },
+        "api_76": {
+            "name": "TV-搜狐4K",
+            "api": "https://tvbox-1-g5221611.deta.app/vod/sohu",
+            "detail": "https://tvbox-1-g5221611.deta.app"
+        },
+        "api_77": {
+            "name": "TV-4K片库",
+            "api": "http://9xi4o.tk/sub/xpath/4kpianku.json",
+            "detail": "http://9xi4o.tk"
+        },
+        "api_78": {
+            "name": "TV-CL4K解析",
+            "api": "https://ys.ling00.cn/CL4K/?url=",
+            "detail": "https://ys.ling00.cn"
+        },
+        "api_79": {
+            "name": "TV-OK4K解析",
+            "api": "https://app.okmedcos.com/4k/?url=",
+            "detail": "https://app.okmedcos.com"
+        },
+        "api_80": {
+            "name": "TV-4K电影网",
+            "api": "csp_XBiubiu",
+            "detail": "clan://TVBox/MaooXB/4K电影网.json"
+        },
         "ffzynew": {
             "api": "https://api.ffzyapi.com/api.php/provide/vod",
             "name": "非凡影视new",
